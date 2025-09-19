@@ -1,3 +1,3 @@
-# configurable_widget
+# WNex
 
 A new Flutter project.
